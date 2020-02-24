@@ -1,4 +1,4 @@
 # CrowdfundingDAppDocs
 
-[Documents](https://Documentsvilin.club/CrowdfundingDAppDocs/)
+[Documents](https://vilin.club/CrowdfundingDAppDocs/)
 

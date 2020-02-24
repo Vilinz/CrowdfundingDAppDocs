@@ -29,7 +29,7 @@
 
     - 在 https://infura.io/ 上申请账号并新建项目。
 
-      ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/7-4-1.jpg)
+      ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/6-4-1.jpg)
 
     - 选择ropsten网络并获取项目id，用于部署项目。
 
@@ -69,11 +69,11 @@
     truffle migrate --network ropsten
     ```
 
-    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/7-4-2.jpg)
+    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/6-4-2.jpg)
 
-    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/7-4-3.jpg)
+    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/6-4-3.jpg)
 
-    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/7-4-4.jpg)
+    ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/6-4-4.jpg)
 
   - 运行前端服务器
 
