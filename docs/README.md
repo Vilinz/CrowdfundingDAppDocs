@@ -10,9 +10,9 @@
 
    - 4.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](https://vilin.club/CrowdfundingDAppDocs/UMLActivityDiagram.html)
    - 4.2 [Use Cases（用例+活动图）](https://vilin.club/CrowdfundingDAppDocs/UseCase.html)
-   - 4.3 Domian Models（领域模型）
-   - 4.4 State Models（状态模型）
-   - 4.5 System Sequence（功能模型）
+   - 4.3 [Domian Models（领域模型）](https://vilin.club/CrowdfundingDAppDocs/DomainModels.html)
+   - 4.4 [State Models（状态模型）](https://vilin.club/CrowdfundingDAppDocs/StateModel.html)
+   - 4.5 [System Sequence（功能模型）](https://vilin.club/CrowdfundingDAppDocs/SystemSequenceDiagram.html)
    - 4.6 Supplementary Requirements（补充需求）
 
 7. Design
