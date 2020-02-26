@@ -31,7 +31,7 @@
    - 6.1 代码规范
    - 6.2 REST API设计规范
    - 6.3 架构设计，详细设计（BCE方法）到应用程序框架映射框架映射指南
-   - 6.4 部署说明
+   - 6.4 [部署说明](https://vilin.club/CrowdfundingDAppDocs/Deployment.html)
 
 9. 成品展示
 
