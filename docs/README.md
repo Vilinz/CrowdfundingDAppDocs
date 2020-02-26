@@ -24,7 +24,7 @@
    - 5.3 [Contract design （合约设计](https://vilin.club/CrowdfundingDAppDocs/ContractDesign.html)）
    - 5.4 [Interface API design（接口API设计）](https://vilin.club/CrowdfundingDAppDocs/InterfaceAPIDesign.html)
    - 5.5 [Architecture design（架构设计）](https://vilin.club/CrowdfundingDAppDocs/ArchitectureDesign.html)
-   - 5.6 [Usecase design（用例设计）](https://vilin.club/CrowdfundingDAppDocs/UseCaseDesign.html)
+   - 5.6 [Usecase design（用例设计）](https://vilin.club/CrowdfundingDAppDocs/UsecaseDesign.html)
 
 8. 生产规范与指南
 
