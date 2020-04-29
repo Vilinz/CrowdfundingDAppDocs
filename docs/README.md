@@ -13,28 +13,34 @@
 5. Design（软件设计说明书）
 
    - 5.1 [UI design（界面设计）](https://vilin.club/CrowdfundingDAppDocs/UIDesign.html)
-- 5.2 [Database design（数据库设计）](https://vilin.club/CrowdfundingDAppDocs/DatabaseDesign.html)
+   
+   - 5.2 [Database design（数据库设计）](https://vilin.club/CrowdfundingDAppDocs/DatabaseDesign.html)
+   
    - 5.3 [Contract design （合约设计](https://vilin.club/CrowdfundingDAppDocs/ContractDesign.html)）
+   
    - 5.4 [Interface API design（接口API设计）](https://vilin.club/CrowdfundingDAppDocs/InterfaceAPIDesign.html)
+   
    - 5.5 [Architecture design（架构设计）](https://vilin.club/CrowdfundingDAppDocs/ArchitectureDesign.html)
+   
    - 5.6 [Usecase design（用例设计）](https://vilin.club/CrowdfundingDAppDocs/UsecaseDesign.html)
-8. 生产规范与指南
+   
+6. 生产规范与指南
 
    - 6.1 [代码规范](https://vilin.club/CrowdfundingDAppDocs/CodeStandard.html)
    - 6.2 [REST API设计规范](https://vilin.club/CrowdfundingDAppDocs/RestApi.html)
    - 6.3 [架构设计，详细设计（BCE方法）到应用程序框架映射框架映射指南](https://vilin.club/CrowdfundingDAppDocs/Architecture.html)
    - 6.4 [部署说明](https://vilin.club/CrowdfundingDAppDocs/Deployment.html)
-   
-9. Test（测试）
+
+7. Test（测试）
 
    - 7.1 [智能合约测试](https://vilin.club/CrowdfundingDAppDocs/ContractsTest.html)
 
-10. 成品展示
+8. 成品展示
 
    - 7.2 [用户手册](https://vilin.club/CrowdfundingDAppDocs/UserGuide.html)
 
-11. 注
+9. 注
 
-    - 如果本地文档图片加载不了，请移步[这里](https://vilin.club/CrowdfundingDAppDocs/)。
+   - 如果本地文档图片加载不了，请移步[这里](https://vilin.club/CrowdfundingDAppDocs/)。
 
-    
+   

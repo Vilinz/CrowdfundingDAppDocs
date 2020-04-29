@@ -51,6 +51,6 @@
 
 ##### 项目审核界面
 
-供管理员审核界面，需要管理员权限。
+供管理员审核，需要管理员权限。
 
 ![](https://github.com/Vilinz/CrowdfundingDAppDocs/raw/master/imgs/finalVerify.jpg)
