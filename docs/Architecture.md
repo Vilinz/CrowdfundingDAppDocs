@@ -25,28 +25,28 @@
 - 前端 + 智能合约
 
   ```
-  .                                   //前端开发的源码
+  .                                   
   ├── build   
-  	└── contracts      //应用的最外层结构
+  	└── contracts      
   ├── config 
-  	├── eslint //图片等静态资源
+  	├── eslint 
   	├── postcss
   	├── vue-loader
   	└── webpack
   ├── contracts    
-  	├── Crowdfunding.sol//与后端接口
+  	├── Crowdfunding.sol
   	├── CrowdfundManager.sol
   	├── Donator2Crowdfundings.sol
   	├── Migrations.sol
   	├── Test.sol
   	├── Utils.sol
   	└── Users.sol
-  ├── docs                      //前端组件
+  ├── docs                      
   ├── migrations
   	├── 1_initial_migration.js
   	└── 2_deploy_migrationjs
   ├── node_modules
-  ├── scripts                     //前端路由
+  ├── scripts                     
   ├── src
   	├── assets
   	├── components
@@ -71,7 +71,7 @@
   	├── App.vue
   	├── main.js
   	└── store.js
-  ├── static//应用的全局数据
+  ├── static
   ├── test
   	├── e2e
   	├── truffle
